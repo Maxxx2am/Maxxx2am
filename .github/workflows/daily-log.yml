@@ -1,0 +1,36 @@
+name: daily log
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  log:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: snapshot real github stats
+        run: |
+          DATA=$(curl -s https://api.github.com/users/Maxxx2am)
+          REPOS=$(echo "$DATA" | jq -r .public_repos)
+          FOLLOWERS=$(echo "$DATA" | jq -r .followers)
+          STARS=$(curl -s "https://api.github.com/users/Maxxx2am/repos?per_page=100" | jq '[.[].stargazers_count] | add // 0')
+          DATE=$(date -u +"%Y-%m-%d")
+          echo "## $DATE" >> LOG.md
+          echo "- public repos: $REPOS" >> LOG.md
+          echo "- followers: $FOLLOWERS" >> LOG.md
+          echo "- total stars: $STARS" >> LOG.md
+          echo "" >> LOG.md
+
+      - name: commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add LOG.md
+          git diff --cached --quiet || git commit -m "auto: daily stats snapshot"
+          git push
+
