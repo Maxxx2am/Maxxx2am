@@ -3,10 +3,6 @@
 <p align="center"><sub>inspired by the fear of being average</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=building+ISOFORM;solo+dev.+no+team.+no+excuses.;pose-tracking%2C+not+guesswork." alt="typing-svg" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-shipping-A855F7?style=flat-square&labelColor=0D0D0D" />
 </p>
 
@@ -43,7 +39,3 @@ Solo. Design, code, ship, repeat.
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxxx2am&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" />
 </p>
-
----
-
-<p align="center"><sub>build in public. talk less. commit more.</sub></p>
