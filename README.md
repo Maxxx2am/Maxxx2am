@@ -1,9 +1,10 @@
-<h1 align="center">Maxxx</h1>
-
-<p align="center"><sub>inspired by the fear of being average</sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=MAXXX&fontSize=70&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=inspired%20by%20the%20fear%20of%20being%20average&descAlignY=58&descSize=18&descColor=A855F7" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-shipping-A855F7?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/status-shipping-A855F7?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://komarev.com/ghpvc/?username=Maxxx2am&color=A855F7&style=for-the-badge&label=VIEWS" />
 </p>
 
 ---
@@ -39,3 +40,19 @@ Solo. Design, code, ship, repeat.
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxxx2am&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" />
 </p>
+
+---
+
+### trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maxxx2am&theme=algolia&no-frame=true&margin-w=8&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maxxx2am/Maxxx2am/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center"><sub>build in public. talk less. commit more.</sub></p>
