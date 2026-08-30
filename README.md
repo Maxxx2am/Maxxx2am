@@ -9,39 +9,40 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### currently
 
 **[ISOFORM](https://github.com/Maxxx2am/ISOFORM)** — real-time calisthenics pose-tracking. RN/Expo, MediaPipe-in-WebView. First TestFlight build shipped.
 
-Solo. Design, code, ship, repeat.
-
----
+No team, no funding — just building it until it ships.
 
 ### stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-0D0D0D?style=flat-square&logo=swift&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Expo-0D0D0D?style=flat-square&logo=expo&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7" />
-</p>
+<img src="https://img.shields.io/badge/Swift-0D0D0D?style=flat-square&logo=swift&logoColor=A855F7" /><br/>
+<img src="https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=A855F7" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=A855F7" /><br/>
+<img src="https://img.shields.io/badge/Expo-0D0D0D?style=flat-square&logo=expo&logoColor=A855F7" /><br/>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=A855F7" /><br/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7" />
 
----
+</td>
+<td valign="top" width="50%">
 
 ### stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=repos&query=$.public_repos&color=A855F7&style=for-the-badge&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=followers&query=$.followers&color=A855F7&style=for-the-badge&labelColor=0D0D0D" />
-</p>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=repos&query=$.public_repos&color=A855F7&style=for-the-badge&labelColor=0D0D0D" /><br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=followers&query=$.followers&color=A855F7&style=for-the-badge&labelColor=0D0D0D" />
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxxx2am&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxxx2am&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" width="100%"/>
 
 daily real-stat snapshot auto-logged in [LOG.md](https://github.com/Maxxx2am/Maxxx2am/blob/main/LOG.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
