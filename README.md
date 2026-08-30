@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=A855F7" /><br/>
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A855F7" />
 
+### daily log
+
+<img src="https://raw.githubusercontent.com/Maxxx2am/Maxxx2am/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </td>
 <td valign="top" width="50%">
 
@@ -43,9 +47,5 @@ daily real-stat snapshot auto-logged in [LOG.md](https://github.com/Maxxx2am/Max
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maxxx2am/Maxxx2am/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center"><sub>build in public. talk less. commit more.</sub></p>
