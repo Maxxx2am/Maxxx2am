@@ -33,21 +33,15 @@ Solo. Design, code, ship, repeat.
 ### stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Maxxx2am&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxx2am&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=repos&query=$.public_repos&color=A855F7&style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Maxxx2am&label=followers&query=$.followers&color=A855F7&style=for-the-badge&labelColor=0D0D0D" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxxx2am&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6B7280" />
 </p>
 
----
-
-### trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maxxx2am&theme=algolia&no-frame=true&margin-w=8&column=7" />
-</p>
+daily real-stat snapshot auto-logged in [LOG.md](https://github.com/Maxxx2am/Maxxx2am/blob/main/LOG.md)
 
 ---
 
