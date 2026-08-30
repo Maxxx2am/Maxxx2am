@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=MAXXX&fontSize=70&fontColor=D8B4FE&animation=fadeIn&fontAlignY=38&desc=inspired%20by%20the%20fear%20of%20being%20average&descAlignY=58&descSize=18&descColor=A855F7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=MAXXX&fontSize=70&fontColor=D8B4FE&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
