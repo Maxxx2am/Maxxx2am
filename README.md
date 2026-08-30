@@ -17,8 +17,6 @@
 
 **[ISOFORM](https://github.com/Maxxx2am/ISOFORM)** — real-time calisthenics pose-tracking. RN/Expo, MediaPipe-in-WebView. First TestFlight build shipped.
 
-No team, no funding — just building it until it ships.
-
 ### stack
 
 <img src="https://img.shields.io/badge/Swift-0D0D0D?style=flat-square&logo=swift&logoColor=A855F7" /><br/>
